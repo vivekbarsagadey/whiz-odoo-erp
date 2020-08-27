@@ -21,7 +21,7 @@ This behavior is allowed by the presence of a *.xml* file containing the followi
 
 .. code-block:: xml
 
-   <function model="account.chart.template" name="try_loading_for_current_company">
+   <function model="account.chart.template" name="try_loading">
       <value eval="[ref(module.template_xmlid)]"/>
    </function>
 
