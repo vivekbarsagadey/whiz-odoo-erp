@@ -50,7 +50,7 @@
         </field>
     </record>
 
-    <menuitem name="Contacts"
+    <menuitem name="Clients"
         id="menu_contacts"
         sequence="4"
         web_icon="contacts,static/description/icon.png"
